@@ -9,7 +9,7 @@ um Git und GitHub kennenzulernen.
 | Name | GitHub-Username | Aufgabe | 
 |------|----------------|---------| 
 | Lee | Lee-Dale | Repository-Ersteller | 
-| [Person 2] | [@username2] | Mitarbeiter | 
+| [Bendix] | [@bendixsteffen] | Mitarbeiter | 
 | [Person 3] | [@username3] | Mitarbeiter | 
 ## Was wir lernen
 - Repositories erstellen und verwalten 
