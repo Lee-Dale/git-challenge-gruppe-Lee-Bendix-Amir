@@ -10,7 +10,7 @@ um Git und GitHub kennenzulernen.
 |------|----------------|---------| 
 | Lee | Lee-Dale | Repository-Ersteller | 
 | [Bendix] | [@bendixsteffen] | Mitarbeiter | 
-| [Person 3] | [@username3] | Mitarbeiter | 
+| [Amir] | [@amirversum] | Mitarbeiter | 
 ## Was wir lernen
 - Repositories erstellen und verwalten 
 - Commits und die Änderungsgeschichte verstehen 
